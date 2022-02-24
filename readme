@@ -1,3 +1,7 @@
 # Coloque seu nome.sobrenome na lista abaixo e faça um commit para o git
 Ricardo.Marinho
+<<<<<<< HEAD
 Danilo.Kishi
+Douglas.Ribeiro
+=======
+>>>>>>> 263341ac859755cc7590997ddc2e6a64915e0e17
